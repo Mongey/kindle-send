@@ -10,6 +10,7 @@ require (
 	github.com/gosimple/slug v1.13.1
 	github.com/lithammer/dedent v1.1.0
 	github.com/spf13/cobra v1.0.0
+	github.com/wneessen/go-mail v0.5.1
 	gopkg.in/mail.v2 v2.3.1
 )
 
@@ -26,8 +27,9 @@ require (
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/vincent-petithory/dataurl v0.0.0-20191104211930-d1553a71de50 // indirect
-	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8 // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
-	golang.org/x/text v0.3.6 // indirect
+	golang.org/x/crypto v0.28.0 // indirect
+	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/sys v0.26.0 // indirect
+	golang.org/x/text v0.19.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 )
